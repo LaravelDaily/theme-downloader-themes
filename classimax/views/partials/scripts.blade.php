@@ -12,8 +12,6 @@
 
 <script src="{{ asset('vendor/classimax/plugins/slick-carousel/slick/slick.min.js') }}"></script>
 
-{{--<script src="{{ asset('vendor/classimax/plugins/jquery-nice-select/jquery.nice-select.min.js') }}"></script>--}}
-
 <script src="{{ asset('vendor/classimax/plugins/fancybox/jquery.fancybox.pack.js') }}"></script>
 
 <script src="{{ asset('vendor/classimax/plugins/smoothscroll/SmoothScroll.min.js') }}"></script>
