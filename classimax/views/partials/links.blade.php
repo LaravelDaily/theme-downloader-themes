@@ -1,5 +1,5 @@
 <!-- Bootstrap -->
-<link href="{{ asset('vendor/classimax/plugins/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
+<link href="{{ asset('vendor/classimax/plugins/bootstrap/bootstrap.min.css') }}" rel="stylesheet">
 <!-- Font Awesome -->
 <link href="{{ asset('vendor/classimax/plugins/font-awesome/css/font-awesome.min.css') }}" rel="stylesheet">
 <!-- Owl Carousel -->
