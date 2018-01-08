@@ -10,18 +10,18 @@
 						<h2>Popular Category</h2>
 						<ul class="list-inline">
 							<li class="list-inline-item">
-								<a href=""><i class="fa fa-bed"></i> Hotel</a></li>
+								<a href="#"><i class="fa fa-bed"></i> Hotel</a></li>
 							<li class="list-inline-item">
-								<a href=""><i class="fa fa-grav"></i> Fitness</a>
+								<a href="#"><i class="fa fa-grav"></i> Fitness</a>
 							</li>
 							<li class="list-inline-item">
-								<a href=""><i class="fa fa-car"></i> Cars</a>
+								<a href="#"><i class="fa fa-car"></i> Cars</a>
 							</li>
 							<li class="list-inline-item">
-								<a href=""><i class="fa fa-cutlery"></i> Restaurants</a>
+								<a href="#"><i class="fa fa-cutlery"></i> Restaurants</a>
 							</li>
 							<li class="list-inline-item">
-								<a href=""><i class="fa fa-coffee"></i> Cafe</a>
+								<a href="#"><i class="fa fa-coffee"></i> Cafe</a>
 							</li>
 						</ul>
 					</div>

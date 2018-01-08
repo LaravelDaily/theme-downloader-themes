@@ -2,22 +2,22 @@
     <div class="widget category-list">
         <h4 class="widget-header">All Category</h4>
         <ul class="category-list">
-            <li><a href="category.html">Laptops <span>93</span></a></li>
-            <li><a href="category.html">Iphone <span>233</span></a></li>
-            <li><a href="category.html">Microsoft <span>183</span></a></li>
-            <li><a href="category.html">Monitors <span>343</span></a></li>
+            <li><a href="#">Laptops <span>93</span></a></li>
+            <li><a href="#">Iphone <span>233</span></a></li>
+            <li><a href="#">Microsoft <span>183</span></a></li>
+            <li><a href="#">Monitors <span>343</span></a></li>
         </ul>
     </div>
 
     <div class="widget category-list">
         <h4 class="widget-header">Nearby</h4>
         <ul class="category-list">
-            <li><a href="category.html">New York <span>93</span></a></li>
-            <li><a href="category.html">New Jersy <span>233</span></a></li>
-            <li><a href="category.html">Florida <span>183</span></a></li>
-            <li><a href="category.html">California <span>120</span></a></li>
-            <li><a href="category.html">Texas <span>40</span></a></li>
-            <li><a href="category.html">Alaska <span>81</span></a></li>
+            <li><a href="#">New York <span>93</span></a></li>
+            <li><a href="#">New Jersy <span>233</span></a></li>
+            <li><a href="#">Florida <span>183</span></a></li>
+            <li><a href="#">California <span>120</span></a></li>
+            <li><a href="#">Texas <span>40</span></a></li>
+            <li><a href="#">Alaska <span>81</span></a></li>
         </ul>
     </div>
 

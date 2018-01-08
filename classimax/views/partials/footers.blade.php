@@ -43,7 +43,7 @@
             <div class="col-lg-4 col-md-7">
                 <!-- App promotion -->
                 <div class="block-2 app-promotion">
-                    <a href="">
+                    <a href="#">
                         <!-- Icon -->
                         <img src="{{ asset('vendor/classimax/images/footer/phone-icon.png') }}" alt="mobile-icon">
                     </a>
@@ -68,10 +68,10 @@
             <div class="col-sm-6 col-12">
                 <!-- Social Icons -->
                 <ul class="social-media-icons text-right">
-                    <li><a class="fa fa-facebook" href=""></a></li>
-                    <li><a class="fa fa-twitter" href=""></a></li>
-                    <li><a class="fa fa-pinterest-p" href=""></a></li>
-                    <li><a class="fa fa-vimeo" href=""></a></li>
+                    <li><a class="fa fa-facebook" href="#"></a></li>
+                    <li><a class="fa fa-twitter" href="#"></a></li>
+                    <li><a class="fa fa-pinterest-p" href="#"></a></li>
+                    <li><a class="fa fa-vimeo" href="#"></a></li>
                 </ul>
             </div>
         </div>
@@ -79,6 +79,6 @@
     <!-- Container End -->
     <!-- To Top -->
     <div class="top-to">
-        <a id="top" class="" href=""><i class="fa fa-angle-up"></i></a>
+        <a id="top" href="#"><i class="fa fa-angle-up"></i></a>
     </div>
 </footer>

@@ -22,12 +22,12 @@
 						<!-- Dashboard Links -->
 						<div class="widget user-dashboard-menu">
 							<ul>
-								<li class="active" ><a href=""><i class="fa fa-user"></i> My Ads</a></li>
-								<li><a href=""><i class="fa fa-bookmark-o"></i> Favourite Ads <span>5</span></a></li>
-								<li><a href=""><i class="fa fa-file-archive-o"></i>Archived Ads <span>12</span></a></li>
-								<li><a href=""><i class="fa fa-bolt"></i> Pending Approval<span>23</span></a></li>
-								<li><a href=""><i class="fa fa-cog"></i> Logout</a></li>
-								<li><a href=""><i class="fa fa-power-off"></i>Delete Account</a></li>
+								<li class="active" ><a href="#"><i class="fa fa-user"></i> My Ads</a></li>
+								<li><a href="#"><i class="fa fa-bookmark-o"></i> Favourite Ads <span>5</span></a></li>
+								<li><a href="#"><i class="fa fa-file-archive-o"></i>Archived Ads <span>12</span></a></li>
+								<li><a href="#"><i class="fa fa-bolt"></i> Pending Approval<span>23</span></a></li>
+								<li><a href="#"><i class="fa fa-cog"></i> Logout</a></li>
+								<li><a href="#"><i class="fa fa-power-off"></i>Delete Account</a></li>
 							</ul>
 						</div>
 					</div>
@@ -62,17 +62,17 @@
 										<div class="">
 											<ul class="list-inline justify-content-center">
 												<li class="list-inline-item">
-													<a data-toggle="tooltip" data-placement="top" title="Tooltip on top" class="view" href="">
+													<a data-toggle="tooltip" data-placement="top" title="Tooltip on top" class="view" href="#">
 														<i class="fa fa-eye"></i>
 													</a>
 												</li>
 												<li class="list-inline-item">
-													<a class="edit" href="">
+													<a class="edit" href="#">
 														<i class="fa fa-pencil"></i>
 													</a>
 												</li>
 												<li class="list-inline-item">
-													<a class="delete" href="">
+													<a class="delete" href="#">
 														<i class="fa fa-trash"></i>
 													</a>
 												</li>
@@ -96,17 +96,17 @@
 										<div class="">
 											<ul class="list-inline justify-content-center">
 												<li class="list-inline-item">
-													<a data-toggle="tooltip" data-placement="top" title="Tooltip on top" class="view" href="">
+													<a data-toggle="tooltip" data-placement="top" title="Tooltip on top" class="view" href="#">
 														<i class="fa fa-eye"></i>
 													</a>
 												</li>
 												<li class="list-inline-item">
-													<a class="edit" href="">
+													<a class="edit" href="#">
 														<i class="fa fa-pencil"></i>
 													</a>
 												</li>
 												<li class="list-inline-item">
-													<a class="delete" href="">
+													<a class="delete" href="#">
 														<i class="fa fa-trash"></i>
 													</a>
 												</li>
@@ -130,17 +130,17 @@
 										<div class="">
 											<ul class="list-inline justify-content-center">
 												<li class="list-inline-item">
-													<a data-toggle="tooltip" data-placement="top" title="Tooltip on top" class="view" href="">
+													<a data-toggle="tooltip" data-placement="top" title="Tooltip on top" class="view" href="#">
 														<i class="fa fa-eye"></i>
 													</a>
 												</li>
 												<li class="list-inline-item">
-													<a class="edit" href="">
+													<a class="edit" href="#">
 														<i class="fa fa-pencil"></i>
 													</a>
 												</li>
 												<li class="list-inline-item">
-													<a class="delete" href="">
+													<a class="delete" href="#">
 														<i class="fa fa-trash"></i>
 													</a>
 												</li>
@@ -164,17 +164,17 @@
 										<div class="">
 											<ul class="list-inline justify-content-center">
 												<li class="list-inline-item">
-													<a data-toggle="tooltip" data-placement="top" title="Tooltip on top" class="view" href="">
+													<a data-toggle="tooltip" data-placement="top" title="Tooltip on top" class="view" href="#">
 														<i class="fa fa-eye"></i>
 													</a>
 												</li>
 												<li class="list-inline-item">
-													<a class="edit" href="">
+													<a class="edit" href="#">
 														<i class="fa fa-pencil"></i>
 													</a>
 												</li>
 												<li class="list-inline-item">
-													<a class="delete" href="">
+													<a class="delete" href="#">
 														<i class="fa fa-trash"></i>
 													</a>
 												</li>

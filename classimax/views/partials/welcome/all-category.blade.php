@@ -17,10 +17,10 @@
                                 <h4>Electronics</h4>
                             </div>
                             <ul class="category-list" >
-                                <li><a href="category.html">Laptops <span>93</span></a></li>
-                                <li><a href="category.html">Iphone <span>233</span></a></li>
-                                <li><a href="category.html">Microsoft  <span>183</span></a></li>
-                                <li><a href="category.html">Monitors <span>343</span></a></li>
+                                <li><a href="#">Laptops <span>93</span></a></li>
+                                <li><a href="#">Iphone <span>233</span></a></li>
+                                <li><a href="#">Microsoft  <span>183</span></a></li>
+                                <li><a href="#">Monitors <span>343</span></a></li>
                             </ul>
                         </div>
                     </div> <!-- /Category List -->
@@ -32,10 +32,10 @@
                                 <h4>Restaurants</h4>
                             </div>
                             <ul class="category-list" >
-                                <li><a href="category.html">Cafe <span>393</span></a></li>
-                                <li><a href="category.html">Fast food <span>23</span></a></li>
-                                <li><a href="category.html">Restaurants  <span>13</span></a></li>
-                                <li><a href="category.html">Food Track<span>43</span></a></li>
+                                <li><a href="#">Cafe <span>393</span></a></li>
+                                <li><a href="#">Fast food <span>23</span></a></li>
+                                <li><a href="#">Restaurants  <span>13</span></a></li>
+                                <li><a href="#">Food Track<span>43</span></a></li>
                             </ul>
                         </div>
                     </div> <!-- /Category List -->
@@ -47,10 +47,10 @@
                                 <h4>Real Estate</h4>
                             </div>
                             <ul class="category-list" >
-                                <li><a href="category.html">Farms <span>93</span></a></li>
-                                <li><a href="category.html">Gym <span>23</span></a></li>
-                                <li><a href="category.html">Hospitals  <span>83</span></a></li>
-                                <li><a href="category.html">Parolurs <span>33</span></a></li>
+                                <li><a href="#">Farms <span>93</span></a></li>
+                                <li><a href="#">Gym <span>23</span></a></li>
+                                <li><a href="#">Hospitals  <span>83</span></a></li>
+                                <li><a href="#">Parolurs <span>33</span></a></li>
                             </ul>
                         </div>
                     </div> <!-- /Category List -->
@@ -62,10 +62,10 @@
                                 <h4>Shoppings</h4>
                             </div>
                             <ul class="category-list" >
-                                <li><a href="category.html">Mens Wears <span>53</span></a></li>
-                                <li><a href="category.html">Accessories <span>212</span></a></li>
-                                <li><a href="category.html">Kids Wears <span>133</span></a></li>
-                                <li><a href="category.html">It & Software <span>143</span></a></li>
+                                <li><a href="#">Mens Wears <span>53</span></a></li>
+                                <li><a href="#">Accessories <span>212</span></a></li>
+                                <li><a href="#">Kids Wears <span>133</span></a></li>
+                                <li><a href="#">It & Software <span>143</span></a></li>
                             </ul>
                         </div>
                     </div> <!-- /Category List -->
@@ -77,10 +77,10 @@
                                 <h4>Jobs</h4>
                             </div>
                             <ul class="category-list" >
-                                <li><a href="category.html">It Jobs <span>93</span></a></li>
-                                <li><a href="category.html">Cleaning & Washing <span>233</span></a></li>
-                                <li><a href="category.html">Management  <span>183</span></a></li>
-                                <li><a href="category.html">Voluntary Works <span>343</span></a></li>
+                                <li><a href="#">It Jobs <span>93</span></a></li>
+                                <li><a href="#">Cleaning & Washing <span>233</span></a></li>
+                                <li><a href="#">Management  <span>183</span></a></li>
+                                <li><a href="#">Voluntary Works <span>343</span></a></li>
                             </ul>
                         </div>
                     </div> <!-- /Category List -->
@@ -92,10 +92,10 @@
                                 <h4>Vehicles</h4>
                             </div>
                             <ul class="category-list" >
-                                <li><a href="category.html">Bus <span>193</span></a></li>
-                                <li><a href="category.html">Cars <span>23</span></a></li>
-                                <li><a href="category.html">Motobike  <span>33</span></a></li>
-                                <li><a href="category.html">Rent a car <span>73</span></a></li>
+                                <li><a href="#">Bus <span>193</span></a></li>
+                                <li><a href="#">Cars <span>23</span></a></li>
+                                <li><a href="#">Motobike  <span>33</span></a></li>
+                                <li><a href="#">Rent a car <span>73</span></a></li>
                             </ul>
                         </div>
                     </div> <!-- /Category List -->
@@ -107,10 +107,10 @@
                                 <h4>Pets</h4>
                             </div>
                             <ul class="category-list" >
-                                <li><a href="category.html">Cats <span>65</span></a></li>
-                                <li><a href="category.html">Dogs <span>23</span></a></li>
-                                <li><a href="category.html">Birds  <span>113</span></a></li>
-                                <li><a href="category.html">Others <span>43</span></a></li>
+                                <li><a href="#">Cats <span>65</span></a></li>
+                                <li><a href="#">Dogs <span>23</span></a></li>
+                                <li><a href="#">Birds  <span>113</span></a></li>
+                                <li><a href="#">Others <span>43</span></a></li>
                             </ul>
                         </div>
                     </div> <!-- /Category List -->
@@ -122,10 +122,10 @@
                                 <h4>Services</h4>
                             </div>
                             <ul class="category-list" >
-                                <li><a href="category.html">Cleaning <span>93</span></a></li>
-                                <li><a href="category.html">Car Washing <span>233</span></a></li>
-                                <li><a href="category.html">Clothing  <span>183</span></a></li>
-                                <li><a href="category.html">Business <span>343</span></a></li>
+                                <li><a href="#">Cleaning <span>93</span></a></li>
+                                <li><a href="#">Car Washing <span>233</span></a></li>
+                                <li><a href="#">Clothing  <span>183</span></a></li>
+                                <li><a href="#">Business <span>343</span></a></li>
                             </ul>
                         </div>
                     </div> <!-- /Category List -->

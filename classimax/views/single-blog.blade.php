@@ -8,7 +8,7 @@
 					<article class="single-post">
 						<h3>Donec id dolor in erat imperdiet.</h3>
 						<ul class="list-inline">
-							<li class="list-inline-item">by <a href="">Admin</a></li>
+							<li class="list-inline-item">by <a href="#">Admin</a></li>
 							<li class="list-inline-item">Nov 22, 2016</li>
 						</ul>
 						<img src="{{ asset('vendor/classimax/images/blog/post-4.jpg') }}" alt="article-01">
@@ -19,11 +19,11 @@
 
 						<p>sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
 						<ul class="social-circle-icons list-inline">
-							<li class="list-inline-item text-center"><a class="fa fa-facebook" href=""></a></li>
-							<li class="list-inline-item text-center"><a class="fa fa-twitter" href=""></a></li>
-							<li class="list-inline-item text-center"><a class="fa fa-google-plus" href=""></a></li>
-							<li class="list-inline-item text-center"><a class="fa fa-pinterest-p" href=""></a></li>
-							<li class="list-inline-item text-center"><a class="fa fa-linkedin" href=""></a></li>
+							<li class="list-inline-item text-center"><a class="fa fa-facebook" href="#"></a></li>
+							<li class="list-inline-item text-center"><a class="fa fa-twitter" href="#"></a></li>
+							<li class="list-inline-item text-center"><a class="fa fa-google-plus" href="#"></a></li>
+							<li class="list-inline-item text-center"><a class="fa fa-pinterest-p" href="#"></a></li>
+							<li class="list-inline-item text-center"><a class="fa fa-linkedin" href="#"></a></li>
 						</ul>
 					</article>
 					<div class="block comment">
