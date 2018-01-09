@@ -1,6 +1,6 @@
 # THEMES
 
-These themes are available to download with [Laravel](http://www.laravel.com) [package](https://packagist.org/packages/faustuzas/theme-downloader).
+These themes are available to download with [Laravel](http://www.laravel.com) [package](https://github.com/LaravelDaily/theme-downloader).
 
 ## Currently available themes: 
 
